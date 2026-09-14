@@ -38,7 +38,7 @@ As a scholar enrolled in the **BSc in Applied AI & Data Science at the Indian In
 - 🏛️ **Academic Institution**: **Indian Institute of Technology Jodhpur** (`b26bs1488@iitj.ac.in`)
 - 🏢 **Commercial Ventures**: Founder of **Famished**, Co-Founder of **Zargam Pvt. Ltd.**, and Founder of **GrowSocialLife**
 - 📖 **Published Works**: Author of *Nahi Lagti Ab Tum Kuch Meri* (Over 10,000 readers in debut week)
-- 🎵 **Music & Audio**: Verified Artist on Spotify, Apple Music, JioSaavn & Audiomack (*"Shirt Da Button"*, *"Hath K Tattoo"*)
+- 🎵 **Music & Audio**: Verified Artist on Spotify, Apple Music, JioSaavn & Audiomack (*"Shirt Da Button"* and original soundscapes)
 - ⚡ **Core Engineering**: Autonomous Swarm Intelligence, RAG Vector Meshes, C# (.NET 9), Python 3.11, Next.js, High-Speed Streaming
 
 ---
@@ -69,7 +69,7 @@ As a scholar enrolled in the **BSc in Applied AI & Data Science at the Indian In
       </p>
       <p>Verified independent recording artist releasing original soundtracks and reimagined lo-fi acoustic renditions across global streaming platforms.</p>
       <ul>
-        <li><b>Notable Releases</b>: <i>"Shirt Da Button"</i>, <i>"Hath K Tattoo"</i></li>
+        <li><b>Notable Releases</b>: <i>"Shirt Da Button"</i> and original soundscapes</li>
         <li><b>Platforms</b>: Spotify, Apple Music, YouTube Music, JioSaavn, Audiomack</li>
       </ul>
     </td>
