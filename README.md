@@ -41,7 +41,8 @@
 sameer@hypervault:~$ sameer --whoami
 ────────────────────────────────────────────────────────────────────────────────
 Identity      : Sameer Quraishi (known as @sameerquraishi__)
-Roots         : Nautanwa, Uttar Pradesh, India (Born: Jan 02, 2005)
+Current Base  : Noida, Uttar Pradesh, India (Delhi NCR)
+Origins       : Nautanwa, Uttar Pradesh, India (Born: Jan 02, 2005)
 Institution   : Indian Institute of Technology Jodhpur (IIT Jodhpur)
 Specialization: Applied AI, Asymptotic Algorithms, Linear Algebra, Data Science
 Roll ID       : B26BS1488 | Email: b26bs1488@iitj.ac.in
@@ -69,6 +70,7 @@ True sovereign systems run unattended, self-heal under duress, and preserve bit-
 
 ```yaml
 Current Status     : Architecting Autonomous AI Swarms & Sovereign Mesh Infrastructures
+Current Location   : Noida, Uttar Pradesh, India (Delhi NCR)
 Academic Rigor     : Indian Institute of Technology Jodhpur (BSc in Applied AI & DS)
 Official Email     : sameerquraishi666666@gmail.com | Institutional: b26bs1488@iitj.ac.in
 Digital Footprint  : @sameerquraishi__ (Instagram, YouTube, Spotify, Apple Music, JioSaavn)
@@ -82,7 +84,7 @@ Cloud Cost Runrate : $0.00 / mo (Pipelined across Cloudflare Zero-Trust, Telegra
 
 ## 🏛️ Biography & Polymathic Journey
 
-**Sameer Quraishi** (recognized universally across digital platforms as [**`@sameerquraishi__`**](https://www.instagram.com/sameerquraishi__/)) is an Indian **Systems Architect, Technology Founder, Author, and Recording Artist**. Born on January 2, 2005, in Nautanwa (Uttar Pradesh), Sameer operates at the confluence of deep software engineering, mathematical rigor, commercial entrepreneurship, and creative arts.
+**Sameer Quraishi** (recognized universally across digital platforms as [**`@sameerquraishi__`**](https://www.instagram.com/sameerquraishi__/)) is an Indian **Systems Architect, Technology Founder, Author, and Recording Artist**, currently based in **Noida (Uttar Pradesh / Delhi NCR)**. Born on January 2, 2005, in Nautanwa (Uttar Pradesh), Sameer operates at the confluence of deep software engineering, mathematical rigor, commercial entrepreneurship, and creative arts.
 
 As an enrolled scholar in the **BSc in Applied AI & Data Science at the Indian Institute of Technology Jodhpur (IIT Jodhpur)**, he engineers mission-critical autonomous degree engines, extreme-speed sovereign data meshes, and enterprise multi-agent swarms. Simultaneously, as a commercial founder, he directs high-scale ventures including **Famished**, **Zargam Pvt. Ltd.**, and **GrowSocialLife**. In literature, his debut poetry volume *Nahi Lagti Ab Tum Kuch Meri* crossed **10,000+ readers** in its opening week, complemented by a verified global streaming discography on Spotify and Apple Music.
 
